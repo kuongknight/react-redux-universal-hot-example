@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-universal-hot-example",
-  "description": "Example of an isomorphic (universal) webapp using react redux and hot reloading",
-  "author": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)",
+  "name": "react-redux-universal-hot-kit",
+  "description": "Kit of an isomorphic (universal) webapp using react redux and hot reloading",
+  "author": "Erik Rasmussen matter - KuongKnight Edit",
   "license": "MIT",
   "version": "0.9.0",
   "repository": {
@@ -129,7 +129,7 @@
     "react-router-redux": "^4.0.0",
     "redux": "^3.0.4",
     "redux-async-connect": "^1.0.0-rc2",
-    "redux-form": "^3.0.12",
+    "redux-form": "^6.2.0",
     "redux-thunk": "^2.1.0",
     "scroll-behavior": "^0.3.2",
     "serialize-javascript": "^1.1.2",
@@ -140,7 +140,7 @@
     "url-loader": "^0.5.7",
     "violet-paginator": "^1.8.1",
     "warning": "^2.1.0",
-    "webpack-isomorphic-tools": "^2.2.18"
+    "webpack-isomorphic-tools": "^2.6.4"
   },
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
